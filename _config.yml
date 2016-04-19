@@ -18,8 +18,8 @@ customize:
         avatar: blogImages/qrcode_for_mellong.jpg
         gravatar: # Gravatar email address, if you enable Gravatar, your avatar config will be overriden
         author: Mellong
-        author_title: '微信扫描上面头像二维码订阅我的微信公众号：mellong'
-        location: Zhuhai, China
+        author_title: '扫一扫上面二维码订阅我的微信公众号：mellong'
+        location: 'Zhuhai, China'
         follow: http://github.com/MellongLau
     highlight: monokai
     sidebar: right # sidebar position, options: left, right
